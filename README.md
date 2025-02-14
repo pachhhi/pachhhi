@@ -12,7 +12,7 @@
  
  🌱 Actualmente aprendiendo en **Try Hack Me, Hack The Box**
 
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3386117" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pachhh.png" alt="Your Image Badge" />
 
  </div>
  
@@ -27,8 +27,6 @@
 
  <hr/>
  
-#<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-#<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,bash,arch,docker,javascript,mysql,vim,nodejs,php,powershell,py," />
 </div>
