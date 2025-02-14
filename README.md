@@ -12,7 +12,7 @@
  
  🌱 Actualmente aprendiendo en **Try Hack Me, Hack The Box**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/pachhh.png" alt="Your Image Badge" />
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3386117" style='border:none;' alt="Your Image Badge" />
 
  </div>
  
