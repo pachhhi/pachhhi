@@ -12,18 +12,7 @@
  
  🌱 Actualmente aprendiendo en **Try Hack Me, Hack The Box**
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3386117" style='border:none;' alt="Your Image Badge" />
-
  </div>
- 
-<div align="center"> 
-  <a href="mailto:carrizotomasss@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/pachhhhhi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
 
  <hr/>
  
