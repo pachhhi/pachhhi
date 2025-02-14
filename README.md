@@ -4,15 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+I'm+Tomas+Carrizo!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Argentina</h3>
+<h3 align="center">Apasionado por la Seguridad Informatica</h3>
 
 <br/>
 
 <div align="center">
-
-⚡ Currently developing in **React, NextJS, Astro**
  
- 🌱 I’m currently learning **MongoDB, AWS, Firebase**
+ 🌱 Actualmente aprendiendo en **Try Hack Me, Hack The Box**
 
  </div>
  
@@ -30,8 +28,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,bash" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,nextjs,blender,ps,astro" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,bash,arch,docker,javascript,mysql,vim,nodejs,php,powershell,py," />
 </div>
 
 <br/>
