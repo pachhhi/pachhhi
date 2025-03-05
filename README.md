@@ -17,7 +17,7 @@
  <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,bash,arch,docker,javascript,mysql,vim,nodejs,php,powershell,py," />
+    <img src="https://skillicons.dev/icons?i=github,git,bash,arch,docker,javascript,vim,nodejs,php,powershell,py," />
 </div>
 
 <br/>
