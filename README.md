@@ -10,7 +10,7 @@
 
 <div align="center">
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/pachhh.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/pachhh.png" />
 
  </div>
 
