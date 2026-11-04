@@ -1,23 +1,29 @@
+# pachhh
 
+I build local AI assistants, Linux tools, and applications for problems I encounter in daily life.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Tomas+Carrizo!;" />
-</h1>
+My interests include agent architectures, retrieval and memory, Linux customization, and hands-on security research.
 
-<h3 align="center">Apasionado por la Seguridad Informatica</h3>
+### Selected work
 
-<br/>
+| Project | What I built |
+|---|---|
+| Lain v1 (https://github.com/pachhhi/Lain) | An experimental chatbot with retrieval-augmented generation, persistent memory, and character knowledge. The foundation for my ongoing work on Lain v2. |
+| Workbench (https://github.com/pachhhi/workbench) | A persistent terminal workspace for Codex, OpenCode, a shell, and Lain, with project sessions and local tool shortcuts. |
+| 7pachhh (https://github.com/pachhhi/7pachhh) | A clothing storefront with checkout and order management. |
 
-<div align="center">
- 
-<img src="https://tryhackme-badges.s3.amazonaws.com/pachhh.png" />
+### Other projects
 
- </div>
+- Chess Module (https://github.com/pachhhi/chess-module) — A native chess analysis application powered by Stockfish.
+- ArchConfig (https://github.com/pachhhi/ArchConfig) — My Arch Linux rice, dotfiles, and installation scripts.
+- A desktop inventory application for a hardware store.
 
- <hr/>
- 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,bash,arch,docker,javascript,vim,nodejs,php,powershell,py," />
-</div>
+### Tools
 
-<br/>
+Python · JavaScript · Bash · Linux · Git · Docker · SQLite
+
+### Security
+
+Hands-on labs, documented experiments, and writeups (https://github.com/pachhhi/Writeups) covering Hack The Box, TryHackMe, and picoCTF.
+
+TryHackMe profile (https://tryhackme.com/p/pachhh)
