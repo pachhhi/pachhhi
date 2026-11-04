@@ -14,8 +14,4 @@ and agent architectures to operating systems and security.
 I learn by building, breaking things in controlled environments,
 and documenting what I discover.
 
-### Tools I use
-
-Python · JavaScript · Bash · Linux · Git · Docker · SQLite
-
 [Security writeups](https://github.com/pachhhi/Writeups) · [TryHackMe](https://tryhackme.com/p/pachhh)
